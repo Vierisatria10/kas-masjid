@@ -1,0 +1,17 @@
+Extrack file zip kedalam lolcalhost atau hosting anda.
+Silahkan teman-teman rubah file yang ada di folder application->config->database.php
+dengan mengganti:
+
+hostname = kalo pakai xampp localhost saja,kalo pake wampp saya kurang tahu
+username = username phpmyadmin anda
+password = password phpmyadmin anda
+database = nama database anda
+
+sesusai dengan settingan phpmyadmin teman-teman
+
+Login ADMIN
+=================
+username = sandimaulidika@gmail.com
+password = admin
+
+Apbila ada yang kurang jelas atau ditanyakan bisa WA 087801751657
